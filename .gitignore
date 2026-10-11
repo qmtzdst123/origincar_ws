@@ -1,0 +1,42 @@
+# ROS 2 build artifacts
+build/
+install/
+log/
+COLCON_IGNORE
+
+# ROS 1 legacy
+devel/
+logs/
+bin/
+lib/
+build_isolated/
+devel_isolated/
+CATKIN_IGNORE
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# C/C++ compiled objects
+*.o
+*.obj
+*.so
+*.dylib
+*.a
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*~
+*.user
+CMakeLists.txt.user
+.project
+.cproject
+
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini

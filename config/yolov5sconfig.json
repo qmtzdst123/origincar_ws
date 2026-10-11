@@ -1,0 +1,6 @@
+{
+	"model_file": "<模型文件路径>",
+	"class_num": 2,
+	"cls_names_list": "origincar.list路径"
+
+}
